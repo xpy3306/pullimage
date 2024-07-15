@@ -1,1 +1,4 @@
 librenms/librenms
+mariadb:10
+redis:7.2-alpine
+crazymax/msmtpd:latest
