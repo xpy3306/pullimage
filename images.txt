@@ -15,4 +15,5 @@
 #--------------------------------------------------------------
 #quay.io/minio/csi-node-driver-registrar@sha256:dafc7f667aa2e20d7f059c20db02dd6987c2624d64d8f166cd5930721be98ea9
 #minio/operator:v6.0.4
-quay.io/minio/minio:RELEASE.2024-10-02T17-50-41Z
+#quay.io/minio/minio:RELEASE.2024-10-02T17-50-41Z
+quay.io/minio/operator-sidecar:v6.0.2
