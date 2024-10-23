@@ -13,4 +13,5 @@
 #quay.io/minio/csi-node-driver-registrar@sha256:dafc7f667aa2e20d7f059c20db02dd6987c2624d64d8f166cd5930721be98ea9
 #quay.io/minio/livenessprobe@sha256:783010e10e4d74b6b2b157a4b52772c5a264fd76bb2ad671054b8c3f706c8324
 #--------------------------------------------------------------
-quay.io/minio/csi-node-driver-registrar@sha256:dafc7f667aa2e20d7f059c20db02dd6987c2624d64d8f166cd5930721be98ea9
+#quay.io/minio/csi-node-driver-registrar@sha256:dafc7f667aa2e20d7f059c20db02dd6987c2624d64d8f166cd5930721be98ea9
+minio/operator:v6.0.4
