@@ -17,4 +17,5 @@
 #minio/operator:v6.0.4
 #quay.io/minio/minio:RELEASE.2024-10-02T17-50-41Z
 #quay.io/minio/operator-sidecar:v6.0.2
-docker.io/apecloud/mysql:8.0.33
+#docker.io/apecloud/mysql:8.0.33
+docker.1ms.run/lmsysorg/sglang:v0.4.2.post3
